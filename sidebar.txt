@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tbf:home|Door43 (tbf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tbf|d43-tbf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tbf/archive/master.zip|d43-tbf.zip]]
+
+**Recent Changes**
+{{changes>ns = tbf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tbf|Ethnologue data]]
+
