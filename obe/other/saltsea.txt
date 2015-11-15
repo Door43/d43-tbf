@@ -1,0 +1,21 @@
+====== Salt Sea ======
+
+===== Facts: =====
+
+The Salt sea is also called the Dead Sea.
+
+  * The Salt Sea or Salton Sea is located in the middle of Israel's territories.
+  * The Salt Sea is fed from the North by the Jordan river.
+  * It was a place where King Herod had a health resort.
+
+(Translation suggestions: [[:tbf:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>saltsea&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft ezk47 ktlink}}
